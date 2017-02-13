@@ -1,0 +1,24 @@
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.XML
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\FSharp.Core.dll
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\FSharp.Core.xml
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\digit\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+E:\GitHub\FShapLearning\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+E:\GitHub\FShapLearning\ConsoleApplication5\bin\Debug\ConsoleApplication5.XML
+E:\GitHub\FShapLearning\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+E:\GitHub\FShapLearning\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+E:\GitHub\FShapLearning\ConsoleApplication5\bin\Debug\FSharp.Core.dll
+E:\GitHub\FShapLearning\ConsoleApplication5\bin\Debug\FSharp.Core.xml
+E:\GitHub\FShapLearning\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+E:\GitHub\FShapLearning\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+E:\GitHub\FShapLearning\FSharpLearning\bin\Debug\ConsoleApplication5.exe.config
+E:\GitHub\FShapLearning\FSharpLearning\bin\Debug\ConsoleApplication5.XML
+E:\GitHub\FShapLearning\FSharpLearning\bin\Debug\ConsoleApplication5.exe
+E:\GitHub\FShapLearning\FSharpLearning\bin\Debug\ConsoleApplication5.pdb
+E:\GitHub\FShapLearning\FSharpLearning\bin\Debug\FSharp.Core.dll
+E:\GitHub\FShapLearning\FSharpLearning\bin\Debug\FSharp.Core.xml
+E:\GitHub\FShapLearning\FSharpLearning\obj\Debug\ConsoleApplication5.exe
+E:\GitHub\FShapLearning\FSharpLearning\obj\Debug\ConsoleApplication5.pdb
