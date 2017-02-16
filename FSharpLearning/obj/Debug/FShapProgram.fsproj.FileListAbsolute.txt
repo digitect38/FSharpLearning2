@@ -30,3 +30,11 @@ E:\GitHub\FSharpStudy\FSharpLearning2\FSharpLearning\bin\Debug\FSharp.Core.dll
 E:\GitHub\FSharpStudy\FSharpLearning2\FSharpLearning\bin\Debug\FSharp.Core.xml
 E:\GitHub\FSharpStudy\FSharpLearning2\FSharpLearning\obj\Debug\ConsoleApplication5.exe
 E:\GitHub\FSharpStudy\FSharpLearning2\FSharpLearning\obj\Debug\ConsoleApplication5.pdb
+E:\GitHub\FSharpLearning2\FSharpLearning\bin\Debug\ConsoleApplication5.exe.config
+E:\GitHub\FSharpLearning2\FSharpLearning\bin\Debug\ConsoleApplication5.XML
+E:\GitHub\FSharpLearning2\FSharpLearning\bin\Debug\ConsoleApplication5.exe
+E:\GitHub\FSharpLearning2\FSharpLearning\bin\Debug\ConsoleApplication5.pdb
+E:\GitHub\FSharpLearning2\FSharpLearning\bin\Debug\FSharp.Core.dll
+E:\GitHub\FSharpLearning2\FSharpLearning\bin\Debug\FSharp.Core.xml
+E:\GitHub\FSharpLearning2\FSharpLearning\obj\Debug\ConsoleApplication5.exe
+E:\GitHub\FSharpLearning2\FSharpLearning\obj\Debug\ConsoleApplication5.pdb

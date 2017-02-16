@@ -2,5 +2,8 @@
 <doc>
 <assembly><name>ConsoleApplication5</name></assembly>
 <members>
+<member name="M:메인모듈.내가메인이당깨(System.String[])">
+
+</member>
 </members>
 </doc>
